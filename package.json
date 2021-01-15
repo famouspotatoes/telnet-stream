@@ -1,7 +1,6 @@
-
 {
   "name": "telnet-stream",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "TELNET protocol support library",
   "keywords": [
     "do",
@@ -35,7 +34,7 @@
     "README.md"
   ],
   "main": "telnet-stream",
-  "types": "telnet-stream.d.ts",
+  "types": "lib/telnet-stream.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/blinkdog/telnet-stream.git"
