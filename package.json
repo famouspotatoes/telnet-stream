@@ -71,7 +71,7 @@
   "license": "AGPL-3.0",
   "main": "telnet-stream",
   "name": "telnet-stream",
-  "types": "./index.d.ts",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blinkdog/telnet-stream.git"
